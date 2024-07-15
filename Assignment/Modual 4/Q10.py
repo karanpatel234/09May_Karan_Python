@@ -1,6 +1,6 @@
-file=open('file_name.txt','a')
+file=open('file_nm.txt','a')
 
-file=open('file_name.txt','r')
+file=open('file_nm.txt','r')
 
 data=file.read()
 
