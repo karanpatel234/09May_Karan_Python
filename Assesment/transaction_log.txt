@@ -1,0 +1,2 @@
+Action: add_customer, Customer ID: 101, Amount: None
+Action: view_all_customers, Customer ID: , Amount: None
